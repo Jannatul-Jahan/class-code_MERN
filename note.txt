@@ -1,0 +1,10 @@
+html = www.w3chool.html
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+in vs code download, extension html css ,live server
+
+
+
+
+
+taining material : https://nextcloud.bjitgroup.com/index.php/s/p4KKjCWgyWXW3Cc?path=%2FMERN%2FTraining_Material
